@@ -14,4 +14,4 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | homework 1 |  |
+| 1 | homework 1 | https://github.com/annn6z/zakharova_homework1_ASOIU.git |
